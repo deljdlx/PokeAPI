@@ -11,3 +11,4 @@ This client use the wonderful work made by the pokeapi team
 - Configure cache path
 - Better HTTP request handling
 - composer.json
+- data repository handling
